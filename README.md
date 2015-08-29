@@ -30,6 +30,7 @@ WARNING! Before connecting your controller: Make sure to "clear" the board for a
 - 8 : blue (clock) 
 - GND : black 
 - 3.3V : red
+- 
 #####Step 3: Deploy Ps1_Controller.ino
 #####Step 4: Optional, configure mappings in Remapper_defines.py
 #####Step 5: Run Remapper.py
