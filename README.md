@@ -2,7 +2,9 @@
 Using the PSXLibrary to read information from a Playstation 1 controller. Information is receiver via pyserial and redirected to keyboard inputs, using ctypes and the windows api.
 Using this code, you will be able to play games using a PS1 controller.
 
-Demo: https://www.youtube.com/watch?v=pn_Li9lcNQs
+Demo: 
+[![Youtube Link.](https://i.imgur.com/zAbwayt.png)](https://www.youtube.com/watch?v=pn_Li9lcNQs)
+
 ##Version 1.0
 Stable, working version.
 
